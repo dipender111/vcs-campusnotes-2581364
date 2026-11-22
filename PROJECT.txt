@@ -1,0 +1,5 @@
+Project Name: CampusNotes
+Student: Dipender Singh
+Enrollment Number: 2581364
+Repository: vcs-campusnotes-2581364
+Purpose: Academic resource management and collaboration.

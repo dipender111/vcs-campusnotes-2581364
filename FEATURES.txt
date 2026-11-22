@@ -1,0 +1,6 @@
+CampusNotes - Project Features
+
+1. Subject-wise note organization
+2. Lecture resource management
+3. Academic documentation
+4. Student collaboration
